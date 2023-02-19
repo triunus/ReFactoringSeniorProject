@@ -1,0 +1,98 @@
+﻿[
+    {
+         "MessageCode":1,
+         "MessageViewType":"ConfirmMessageView",
+         "Title":"Delete success",
+         "Detail":"Successful deletion of anonymous member information."
+    },
+    {
+         "MessageCode":2,
+         "MessageViewType":"ConfirmMessageView",
+         "Title":"Delete error",
+         "Detail":"There is no anonymous member information."
+    },
+    {
+         "MessageCode":3,
+         "MessageViewType":"ConfirmMessageView",
+         "Title":"Delete failed",
+         "Detail":"Failed to delete anonymous member information due to server error. Please try again in a few minutes."
+    },
+    {
+         "MessageCode":4,
+         "MessageViewType":"YesOrNoMessageView",
+         "Title":"Check",
+         "Detail":"Are you sure you want to delete anonymous member information?"
+    },
+    {
+         "MessageCode":11,
+         "MessageViewType":"ConfirmMessageView",
+         "Title":"Register success",
+         "Detail":"Anonymous sign-up successful."
+    },
+    {
+         "MessageCode":12,
+         "MessageViewType":"ConfirmMessageView",
+         "Title":"Register error",
+         "Detail":"You have member information. Please sign up after membership withdrawal."
+    },
+    {
+         "MessageCode":13,
+         "MessageViewType":"ConfirmMessageView",
+         "Title":"Register failed",
+         "Detail":"Anonymous membership registration failed due to server error. Please try again in a few minutes."
+    },
+    {
+         "MessageCode":21,
+         "MessageViewType":"ConfirmMessageView",
+         "Title":"Login success",
+         "Detail":"Anonymous sign-up successful."
+    },
+    {
+         "MessageCode":22,
+         "MessageViewType":"ConfirmMessageView",
+         "Title":"Login error",
+         "Detail":"Your login information is incorrect. Please sign up after membership withdrawal."
+    },
+    {
+         "MessageCode":23,
+         "MessageViewType":"ConfirmMessageView",
+         "Title":"Login failed",
+         "Detail":"There is no existing member information. Please try after signing up."
+    },
+    {
+         "MessageCode":101,
+         "MessageViewType":"ConfirmMessageView",
+         "Title":"Select check",
+         "Detail":"Please select the product to purchase."
+    },
+    {
+         "MessageCode":102,
+         "MessageViewType":"ConfirmMessageView",
+         "Title":"Purchase success",
+         "Detail":"Successful purchase of Vender's Product."
+    },
+    {
+         "MessageCode":103,
+         "MessageViewType":"ConfirmMessageView",
+         "Title":"Purchase failed",
+         "Detail":"Product purchase failed."
+    },
+    {
+         "MessageCode":104,
+         "MessageViewType":"YesOrNoMessageView",
+         "Title":"Update check",
+         "Detail":"Would you like to renew the Vender's products?"
+    },
+    {
+         "MessageCode":105,
+         "MessageViewType":"ConfirmMessageView",
+         "Title":"Update success",
+         "Detail":"Vender's product list update success."
+    },
+    {
+         "MessageCode":106,
+         "MessageViewType":"ConfirmMessageView",
+         "Title":"Update failed",
+         "Detail":"Product update failed."
+    }
+]

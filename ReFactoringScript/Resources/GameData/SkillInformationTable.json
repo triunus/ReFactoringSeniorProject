@@ -1,0 +1,74 @@
+﻿[
+    {
+         "skillNumber":0,
+         "skillName":"Shot",
+         "skillDescription":"Test Description01",
+         "skillType":"Projectile",
+         "skillRank":"Nomal",
+         "skillImagePath":"Image/SkillImage/Projectile/Shot",
+         "skillPrefabPath":"Prefab/SkillPrefab/Projectile/Shot"
+    },
+    {
+         "skillNumber":1,
+         "skillName":"ChargeShot",
+         "skillDescription":"Test Description02",
+         "skillType":"Projectile",
+         "skillRank":"Nomal",
+         "skillImagePath":"Image/SkillImage/Projectile/ChargeShot",
+         "skillPrefabPath":"Prefab/SkillPrefab/Projectile/ChargeShot"
+    },
+    {
+         "skillNumber":2,
+         "skillName":"DoubleShot",
+         "skillDescription":"Test Description03",
+         "skillType":"Projectile",
+         "skillRank":"Rare",
+         "skillImagePath":"Image/SkillImage/Projectile/DoubleShot",
+         "skillPrefabPath":"Prefab/SkillPrefab/Projectile/DoubleShot"
+    },
+    {
+         "skillNumber":3,
+         "skillName":"Fire",
+         "skillDescription":"Test Description04",
+         "skillType":"AreaEffect",
+         "skillRank":"Nomal",
+         "skillImagePath":"Image/SkillImage/AreaEffect/Fire",
+         "skillPrefabPath":"Prefab/SkillPrefab/AreaEffect/Fire"
+    },
+    {
+         "skillNumber":4,
+         "skillName":"Thunder",
+         "skillDescription":"Test Description05",
+         "skillType":"AreaEffect",
+         "skillRank":"Nomal",
+         "skillImagePath":"Image/SkillImage/AreaEffect/Thunder",
+         "skillPrefabPath":"Prefab/SkillPrefab/AreaEffect/Thunder"
+    },
+    {
+         "skillNumber":5,
+         "skillName":"Explosion",
+         "skillDescription":"Test Description06",
+         "skillType":"AreaEffect",
+         "skillRank":"Rare",
+         "skillImagePath":"Image/SkillImage/AreaEffect/Explosion",
+         "skillPrefabPath":"Prefab/SkillPrefab/AreaEffect/Explosion"
+    },
+    {
+         "skillNumber":6,
+         "skillName":"FireSatellite",
+         "skillDescription":"Test Description07",
+         "skillType":"Satellite",
+         "skillRank":"Nomal",
+         "skillImagePath":"Image/SkillImage/Satellite/FireSatellite",
+         "skillPrefabPath":"Prefab/SkillPrefab/Satellite/FireSatellite"
+    },
+    {
+         "skillNumber":7,
+         "skillName":"ImpactSatellite",
+         "skillDescription":"Test Description08",
+         "skillType":"Satellite",
+         "skillRank":"Rare",
+         "skillImagePath":"Image/SkillImage/Satellite/ImpactSatellite",
+         "skillPrefabPath":"Prefab/SkillPrefab/Satellite/ImpactSatellite"
+    }
+]

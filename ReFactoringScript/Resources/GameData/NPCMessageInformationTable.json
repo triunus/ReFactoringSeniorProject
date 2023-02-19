@@ -1,0 +1,19 @@
+﻿[
+  {
+    "NPCName": "VenderNPC",
+    "MessageContent": {
+      "Greeting": [
+        "Hi!",
+        "Wellcome!",
+        "What are you Buying?"
+      ],
+      "Description": [
+        "This Skill's Description is as follows."
+      ],
+      "ThankYouForPurchase": [
+        "Thank you!",
+        "Good Choice!"
+      ]
+    }
+  }
+]

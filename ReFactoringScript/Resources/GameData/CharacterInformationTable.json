@@ -1,0 +1,35 @@
+﻿[
+    {
+         "characterNumber":0,
+         "characterName":"warrior01",
+         "characterDescription":"Test Description 01",
+         "characterImagePath":"Image/CharacterImage/warrior01",
+         "characterLobbyPrefabPath":"Prefab/CharacterPrefab/warrior01",
+         "characterLobbyPrefabAnimationPath":"Animation/GameLobbyScene/Character/warrior01/CharacterPrefab",
+         "characterInGamePrefabPath":"Prefab/CharacterPrefab/warrior01",
+         "baseSkill01":0,
+         "baseSkill02":3
+    },
+    {
+         "characterNumber":1,
+         "characterName":"warrior02",
+         "characterDescription":"Test Description 02",
+         "characterImagePath":"Image/CharacterImage/warrior02",
+         "characterLobbyPrefabPath":"Prefab/CharacterPrefab/warrior02",
+         "characterLobbyPrefabAnimationPath":"Animation/GameLobbyScene/Character/warrior02/CharacterPrefab",
+         "characterInGamePrefabPath":"Prefab/CharacterPrefab/warrior02",
+         "baseSkill01":1,
+         "baseSkill02":4
+    },
+    {
+         "characterNumber":2,
+         "characterName":"warrior03",
+         "characterDescription":"Test Description 03",
+         "characterImagePath":"Image/CharacterImage/warrior03",
+         "characterLobbyPrefabPath":"Prefab/CharacterPrefab/warrior03",
+         "characterLobbyPrefabAnimationPath":"Animation/GameLobbyScene/Character/warrior03/CharacterPrefab",
+         "characterInGamePrefabPath":"Prefab/CharacterPrefab/warrior03",
+         "baseSkill01":2,
+         "baseSkill02":5
+    }
+]
